@@ -118,7 +118,7 @@ go build -ldflags "-s -w" -o ./URLFinder-macos-arm64
 
 
 ## 更新说明
-2024/03/06
+2024/03/06  
 新增url黑名单，使用时-i config.yaml
 
 2023/9/9  
